@@ -11,8 +11,8 @@ const DUMMY_PLACES = [
     imageUrl: 'https://source.unsplash.com/4HG5hlhmZg8',
     address: '1-19-1, Kabukicho, Shinjuku-ku, Tokyo, 160-0021',
     location: {
-      lat: '35.6952948',
-      lng: '139.7008743'
+      lat: 35.6952948,
+      lng: 139.7008743
     },
     creator: 'u1'
   },
@@ -23,8 +23,8 @@ const DUMMY_PLACES = [
     imageUrl: 'https://source.unsplash.com/4HG5hlhmZg8',
     address: '1-19-1, Kabukicho, Shinjuku-ku, Tokyo, 160-0021',
     location: {
-      lat: '35.6952948',
-      lng: '139.7008743'
+      lat: 35.6952948,
+      lng: 139.7008743
     },
     creator: 'u2'
   }
